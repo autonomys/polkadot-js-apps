@@ -242,6 +242,7 @@ const spec: Record<string, OverrideBundleDefinition> = {
   subgame,
   subsocial,
   subspace: subspace,
+  'subspace-farmnet': subspace,
   'substrate-contracts-node': substrateContractsNode,
   subzero: zero,
   ternoa,
